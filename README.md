@@ -1,7 +1,7 @@
 # CHAITRA-S
 
 ## QUIZ GAME  
-#### A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills. They can also be televised for entertainment purposes, often in a game show format Quizzes may be held on a variety of subjects (general knowledge or 'pot luck' (which could be anything)) or subject-specific. The format of the quiz can also vary.
+#### A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills. They can also be televised for entertainment purposes, often in a game show format Quizzes may be held on a variety of subjects or subject-specific. The format of the quiz can also vary.
 
 ## Folder Structure
 Folder                    | Description
