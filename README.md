@@ -2,9 +2,11 @@
 
 
 [![Contribution Check - Git Inspector](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/gitinspector.yml)
+
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/CodeQuality_Dynamic.yml)
 
 [![C/C++ CI](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/c-build.yml/badge.svg)](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/c-build.yml)
+
 [![Unit Testing - Unity](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/unity.yml/badge.svg)](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/unity.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Chaitra15S/CHAITRA-S/actions/workflows/cppcheck.yml)
